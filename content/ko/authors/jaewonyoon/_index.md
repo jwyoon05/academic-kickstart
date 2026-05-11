@@ -28,7 +28,7 @@ email = "jwyoon05@snu.ac.kr"
 [[education.courses]]
   course = "생명과학부 / 연합전공 인공지능"
   institution = "서울대학교"
-  year = 2026
+  year = 2027
 
 
 # Social/Academic Networking
