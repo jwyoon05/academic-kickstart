@@ -20,11 +20,12 @@ organizations = [ { name = "Seoul National University", url = "https://snu.ac.kr
 bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "jwyoon05@snu.ac.kr"
 
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+[[education.courses]] course = "생명과학부 / 연합전공 인공지능" institution = "서울대학교" year = 2027
 
 
 # Social/Academic Networking
@@ -36,6 +37,11 @@ email = ""
   icon = "envelope"
   icon_pack = "fas"
   link = "mailto:jwyoon05@snu.ac.kr"
+
+[[social]] 
+  icon = "github" 
+  icon_pack = "fab" 
+  link = "https://github.com/jwyoon05"
   
 
 +++
